@@ -10,7 +10,7 @@ What started as "lemme try this" quickly became "ok wait this is kinda fire." No
 
 Still learning, still shipping, still chasing that next aha moment.
 
-</div>
+![0xLou1s's GitHub stats](https://github-readme-stats-xuv9.vercel.app/api?username=0xLou1s&show_icons=true&title_color=ff8800&icon_color=ff8800&text_color=9f9f9f&bg_color=151515)
 
 ##
 ![](https://komarev.com/ghpvc/?username=Lou1sVuong&color=ff8800)
